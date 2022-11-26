@@ -68,6 +68,9 @@ public class Main {
         // exercise 12
         System.out.println("#---------- Is Cat Playing ----------#");
         PlayingCat.isCatPlaying(false, 45);
+        //
+        System.out.println("#---------- Sum Odd Numbers ----------#");
+        SumOddRange.sumOdd(1, 100);
 
     }
 }
