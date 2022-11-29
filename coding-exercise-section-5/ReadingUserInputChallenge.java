@@ -11,28 +11,20 @@ public class ReadingUserInputChallenge {
         Scanner scanner = new Scanner(System.in);
         int counter = 1;
         int sum = 0;
-        boolean fiveValidNumbers = false;
 
         do {
             System.out.println("Enter number # " + counter);
+            String nextNumber = scanner.nextLine();
             try {
-                sum += checkNum(scanner.nextLine());
-                fiveValidNumbers = counter < 5 ? false : true;
+                sum += Integer.parseInt(nextNumber);
                 counter++;
             } catch (NumberFormatException badUserData) {
-                System.out.println("Characters not allowed!!! Try again.");
+                System.out.println("Invalid Number");
             }
 
-        } while (!fiveValidNumbers);
+        } while (counter <= 5);
 
         scanner.close();
         return "The sum is " + sum;
-    }
-
-    public static int checkNum(String number) {
-
-        int num = Integer.parseInt(number);
-
-        return num;
     }
 }
