@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f20c373-aeb5-4372-a406-2e77c2ef5599" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputerFactory/src/PersonalComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputerFactory/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cylinder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/src/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartKitchen/src/SmartKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringFormating/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringFormating/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringFormating/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringFormating/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringFormating/StringFormating.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text Block/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text Block/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text Block/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text Block/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text Block/Text Block.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IlWYZG2wJ6dAouxfzMRTpA4wQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/stoyk/Desktop/Java Programming Masterclass covering Java 11 and Java 17/coding-exercise-section-8/PolymorphismMasterChallenge",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f20c373-aeb5-4372-a406-2e77c2ef5599" name="Changes" comment="" />
+      <created>1670756700702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670756700702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
