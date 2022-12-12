@@ -20,7 +20,7 @@ public class Main {
 //        regularMeal.printItemizedList();
 
 //        MealOrder secondMeal = new MealOrder("turkey", "Sprite", "chili");
-//        secondMeal.addBurgerToppings("LERRUCE", "CHEESE", "MAYO");
+//        secondMeal.addBurgerToppings("LETTUCE", "CHEESE", "MAYO");
 //        secondMeal.setDrinkSize("SMALL");
 //        secondMeal.printItemizedList();
 
